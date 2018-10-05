@@ -48,3 +48,5 @@ jobs:
       env:
         - STAGE_NAME=4x-electron
       <<: *defaults
+
+  os: osx
